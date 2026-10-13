@@ -1,0 +1,6 @@
+{
+  "name": "Sensor Explorer",
+  "description": "Comprehensive native hardware and sensor monitor for live device sensors, Wi-Fi networks, and Bluetooth devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
